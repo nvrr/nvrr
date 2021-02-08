@@ -1,6 +1,6 @@
 # <p  align="center" style="color:orange;">Ꭾစ𝒓𝓽🝡⚉ℓ𝖎စ</p>
 
-### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!<img align="right" height = "250" width = "300"  src= "https://github.com/nvrr/nvrr/blob/main/asset/icons/pixeltrue-support.png"/>
+### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!<img align="right" height = "300" width = "350"  src= "https://github.com/nvrr/nvrr/blob/main/asset/icons/pixeltrue-support.png"/>
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
 
@@ -28,7 +28,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nvrr&theme=buefy&show_icons=true&count_private=true)
 
 
-# <img  height = "35" width = "45" src= "https://github.com/nvrr/nvrr/blob/main/asset/git.png"/>ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
+# <img  height = "45" width = "45" src= "https://github.com/nvrr/nvrr/blob/main/asset/git.png"/>ₗₐₙgᵤₐgₑ ₛₜₐₜₛ.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrr&theme=buefy&layout=compact)
 
