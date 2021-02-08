@@ -1,6 +1,6 @@
 # <p  align="center" style="color:orange;">Ꭾစ𝒓𝓽🝡⚉ℓ𝖎စ</p>
 
-### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!
+### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!<img align="right" height = "250" width = "300"  src= "https://github.com/nvrr/nvrr/blob/main/asset/icons/pixeltrue-support-1.png"/>
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
 
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Flutter
 - 👯 I’m looking to collaborate  
 
-# <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/asset/skil.webp"/> ₛₖᵢₗₗₛ
+# <img  height = "40" width = "40" src= "https://github.com/nvrr/nvrr/blob/main/asset/skill.png"/> ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python and DBMS by using Sqlite
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/icons/dart.png"></code> Dart
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/flutter.png"></code> Flutter
