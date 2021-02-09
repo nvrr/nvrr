@@ -6,7 +6,7 @@
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
 
- #### Ｒｅｓｕｍｅ<a href="https://drive.google.com/file/d/1IcBxGDjYaOYE8O5jSfKER1IXtBp86Sb1/view?usp=drivesdk"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-submit-resume-24(1).png"/></a>
+ #### Ｒｅｓｕｍｅ<a href="https://drive.google.com/file/d/1IcBxGDjYaOYE8O5jSfKER1IXtBp86Sb1/view?usp=drivesdk"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
  </br>
 
 - 🌱 I’m currently learning Flutter and TDD with BLOC State Management
