@@ -5,6 +5,8 @@
 ### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
+ 
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FExZjJHuVXdTx5X44XrWErH%2FFigma-Mobile-Design%3Fnode-id%3D16%253A6%26scaling%3Dscale-down" allowfullscreen></iframe>
 
  #### Ｒｅｓｕｍｅ<a href="https://drive.google.com/file/d/1IcBxGDjYaOYE8O5jSfKER1IXtBp86Sb1/view?usp=drivesdk"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
  </br>
