@@ -1,6 +1,6 @@
 # <p  align="center" style="color:orange;">Ꭾစ𝒓𝓽🝡⚉ℓ𝖎စ</p>
 
-<img align="right" height = "300" width = "350"  src= "https://github.com/nvrr/nvrr/blob/main/asset/icons/pixeltrue-support.png"/>
+/* <img align="right" height = "300" width = "350"  src= "https://github.com/nvrr/nvrr/blob/main/asset/icons/pixeltrue-support.png"/> */
 
 ### Hi there , <img align="left" height = "30" width = "30" alt="" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_10-55-57.jpg"/> I'm  𝒩𝒱𝑅!
 
