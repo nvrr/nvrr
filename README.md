@@ -13,9 +13,9 @@
 
 # ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python and DBMS by using Sqlite
-- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/icons/dart.png"></code> Dart
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/flutter.png"></code> Flutter
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/bootstrap4.png"></code> Bootsrtap
+- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/reactjs.png"></code> ReactJs
 
 
 # <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_11-39-46.jpg"/> Gₑₜ ᵢₙ ₜₒᵤcₕ
