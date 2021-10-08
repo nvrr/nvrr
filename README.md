@@ -9,7 +9,7 @@
 
  #### Ｒｅｓｕｍｅ<a href="https://drive.google.com/file/d/1Lh1AQA93xtPa0A3GE5b4-15LlX7v_cDH/view?usp=drivesdk"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
  </br>
- #### Try https://octoprofile.vercel.app/user?id=nvrr
+ #### ![Click here](https://octoprofile.vercel.app/user?id=nvrr)
 
 # ₛₖᵢₗₗₛ
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python and DBMS by using Sqlite
