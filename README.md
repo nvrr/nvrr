@@ -7,8 +7,8 @@
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
  
 
- #### Ｒｅｓｕｍｅ<a href="https://docs.google.com/document/d/12NKXCe5-r1B56Ss9Owu5bAYJTHxj1LFUyQEaMWfZWVg/edit#heading=h.gjdgxs"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
- </br>
+<!--  #### Ｒｅｓｕｍｅ<a href="https://docs.google.com/document/d/12NKXCe5-r1B56Ss9Owu5bAYJTHxj1LFUyQEaMWfZWVg/edit#heading=h.gjdgxs"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
+ </br> -->
  
 
 
