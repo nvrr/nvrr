@@ -6,6 +6,10 @@
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
  
+<img align="left" height = "30" width = "30" alt="" src= "https://see.fontimg.com/api/renderfont4/1Gyej/eyJyIjoiZHciLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/UmVhY3QgRGV2ZWxvcGVy/mushroomsboldpersonaluse-exit.png"/> 
+ 
+ 
+ 
 
 <!--  #### Ｒｅｓｕｍｅ<a href="https://docs.google.com/document/d/12NKXCe5-r1B56Ss9Owu5bAYJTHxj1LFUyQEaMWfZWVg/edit#heading=h.gjdgxs"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
  </br> -->
