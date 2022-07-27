@@ -6,7 +6,7 @@
 
  #### ![Profile Views](https://komarev.com/ghpvc/?username=nvrr)
  
-<img align="left" height = "30" width = "30" alt="" src= "https://see.fontimg.com/api/renderfont4/1Gyej/eyJyIjoiZHciLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/UmVhY3QgRGV2ZWxvcGVy/mushroomsboldpersonaluse-exit.png"/> 
+<img align="left" height = "50" width = "100%" alt="" src= "https://see.fontimg.com/api/renderfont4/1Gyej/eyJyIjoiZHciLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/UmVhY3QgRGV2ZWxvcGVy/mushroomsboldpersonaluse-exit.png"/> 
  
  
  
