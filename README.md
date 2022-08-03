@@ -8,10 +8,10 @@
  
 <img align="left" height = "100%" width = "100%" alt="" src= "https://see.fontimg.com/api/renderfont4/w1ZOx/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVhY3QgRGV2ZWxvcGVy/gravis-personal-use-regular.png"/> 
 
-   Hi, i am a tech enthusiastic who is always willing to learn new technologies that can solve problems and make huge impact.
+ <!--   Hi, i am a tech enthusiastic who is always willing to learn new technologies that can solve problems and make huge impact.
   i am currently working at Tech Arion Private Ltd as react.js developer with next.js and have experience in dealing with client ad delivering requirements. Serving as technical lead and help new developers. i work on developing my skills every day.
  
- 
+ -->
  
 
 <!--  #### Ｒｅｓｕｍｅ<a href="https://docs.google.com/document/d/12NKXCe5-r1B56Ss9Owu5bAYJTHxj1LFUyQEaMWfZWVg/edit#heading=h.gjdgxs"><img align="left" height = "30" width = "30" alt="RESUME" src= "https://github.com/nvrr/nvrr/blob/main/asset/resumeIcons/icons8-attach-resume-male-50.png"/></a>
