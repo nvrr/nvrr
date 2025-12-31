@@ -26,7 +26,7 @@
 <!-- - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python, DBMS by using Sqlite and Data Science
 
  -->
-
+ <!-- 
 # <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_11-39-46.jpg"/> Gₑₜ ᵢₙ ₜₒᵤcₕ
 - Linkedin: [https://www.linkedin.com/in/nvr-39](https://www.linkedin.com/in/nvr-39)
 - Dribbble: [https://dribbble.com/NVR](https://dribbble.com/NVR)
