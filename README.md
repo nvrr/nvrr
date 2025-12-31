@@ -23,9 +23,9 @@
 - <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"></code> ReactJs (NextJs), React Native
 -  <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/java.sng"></code> Learning JAVA 
 - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/bootstrap4.png"></code> Bootsrtap, TailwindCSS
-- <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python, DBMS by using Sqlite and Data Science
+<!-- - <code><img height="40" src="https://github.com/nvrr/nvrr/blob/main/asset/python.png"></code> Python, DBMS by using Sqlite and Data Science
 
-
+ -->
 
 # <img  height = "30" width = "30" src= "https://github.com/nvrr/nvrr/blob/main/asset/images/photo_2021-02-06_11-39-46.jpg"/> Gₑₜ ᵢₙ ₜₒᵤcₕ
 - Linkedin: [https://www.linkedin.com/in/nvr-39](https://www.linkedin.com/in/nvr-39)
